@@ -17,4 +17,12 @@ int main() {
         case 'b':
             cout << "Very Good!" << endl;
             break;
+case 'C':
+        case 'c':
+            cout << "Good. Keep Improving!" << endl;
+            break;
+        case 'D':
+        case 'd':
+            cout << "You passed, but need more effort." << endl;
+            break;
 
