@@ -25,4 +25,6 @@ case 'C':
         case 'd':
             cout << "You passed, but need more effort." << endl;
             break;
-
+case 'F':
+        case 'f':
+            cout << "Fail. Better luck next time." << endl;
