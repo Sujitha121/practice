@@ -28,3 +28,10 @@ case 'C':
 case 'F':
         case 'f':
             cout << "Fail. Better luck next time." << endl;
+	    break;
+        default:
+            cout << "Invalid grade entered!" << endl;
+    }
+
+    return 0;
+}
